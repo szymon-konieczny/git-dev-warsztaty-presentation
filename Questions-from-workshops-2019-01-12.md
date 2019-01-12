@@ -23,7 +23,7 @@ Osoba nr. 8
 Pytanie:
 
 Osoba nr. 9
-Pytanie:
+Pytanie: Czy GitHub przeciągnie do siebie uzytkowników GitLaba i BitBucket?
 
 Osoba nr. 10
 Pytanie:
